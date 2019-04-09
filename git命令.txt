@@ -4,4 +4,11 @@ $ git clone git@github.com:phppython/con_coding.git
 $ cd con_coding/
 进入指定盘根目录
 $ cd /d
+跟踪文件
+$ git add 文件或者.
+提交更新文件
+$ git commit -m '第一次提交(相关注释)'
+上传代码到仓库
+git push
+
 
