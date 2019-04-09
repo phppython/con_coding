@@ -1,0 +1,7 @@
+下载代码仓库到本地
+$ git clone git@github.com:phppython/con_coding.git
+进入指定目录
+$ cd con_coding/
+进入指定盘根目录
+$ cd /d
+
